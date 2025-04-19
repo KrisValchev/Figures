@@ -1,12 +1,6 @@
-﻿using Figures.Core.DTOs;
-using Figures.Core.Interfaces;
-using Figures.Core.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Figures.Core.Models;
+using Figures.DTO;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace Figures.Core.Serialization
 {
@@ -33,7 +27,8 @@ namespace Figures.Core.Serialization
 				FigureType = f.GetType().Name,
 				Size = f.GetSize(),
 				//if shape is circle the position is equal to the position of the center
-				Position = (f is Circle) ? new Point(f.Position.X + f.GetSize() / 2, f.Position.Y + f.GetSize() / 2) : f.Position,
+				X = (f is Circle) ? f.Position.X + f.GetSize() / 2 : f.Position.X,
+				Y= (f is Circle) ? f.Position.Y + f.GetSize() / 2 : f.Position.Y,
 				//saving border and fill color as hex
 				BorderColor = $"#{f.BorderColor.A:X2}{f.BorderColor.R:X2}{f.BorderColor.G:X2}{f.BorderColor.B:X2}",
 				FillColor = $"#{f.FillColor.A:X2}{f.FillColor.R:X2}{f.FillColor.G:X2}{f.FillColor.B:X2}"

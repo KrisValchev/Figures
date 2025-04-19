@@ -1,5 +1,4 @@
 ﻿using Figures.Core.Models;
-using System.Drawing;
 
 namespace Figures.Core.Interfaces
 {

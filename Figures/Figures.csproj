@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Figures.Core\Figures.Core.csproj" />
+    <ProjectReference Include="..\Figures.DTO\Figures.DTO.csproj" />
   </ItemGroup>
 
 </Project>

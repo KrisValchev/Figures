@@ -1,4 +1,4 @@
-using Figures.Core.DTOs;
+using Figures.DTO;
 using Figures.Forms;
 using Figures.Core.Models;
 using Figures.Core.Factories;
@@ -371,7 +371,7 @@ namespace Figures
 				{
 					Color borderColor = ColorTranslator.FromHtml(shape.BorderColor);
 					Color fillColor = ColorTranslator.FromHtml(shape.FillColor);
-					_shapes.Add(ShapeFactory.GetShape(shape.FigureType, shape.Size, shape.Position, borderColor, fillColor));
+					_shapes.Add(ShapeFactory.GetShape(shape.FigureType, shape.Size, new Point ( shape.X, shape.Y), borderColor, fillColor));
 					panel2.Invalidate();
 				}
 			}

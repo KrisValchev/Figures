@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\univeristy\\TU-Project-2semester\\Figures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\serialization\\shapeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\serialization\\shapeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEC8172-744A-44F6-8F3D-9B5ACECC54A5}|Figures.DTO\\Figures.DTO.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.dto\\shapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEC8172-744A-44F6-8F3D-9B5ACECC54A5}|Figures.DTO\\Figures.DTO.csproj|solutionrelative:figures.dto\\shapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures\\forms\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|solutionrelative:figures\\forms\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +23,24 @@
       "RelativeMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|solutionrelative:figures\\forms\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|D:\\univeristy\\TU-Project-2semester\\Figures\\figures\\forms\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|solutionrelative:figures\\forms\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures\\forms\\scene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|solutionrelative:figures\\forms\\scene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\serialization\\shapeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\serialization\\shapeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures\\forms\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB2011B3-3343-4879-B1DB-9A1ADD7E33C6}|Figures\\Figures.csproj|solutionrelative:figures\\forms\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|d:\\univeristy\\tu-project-2semester\\figures\\figures.core\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88A1EB-F0A1-4DBC-9A6B-E40BD9F63680}|Figures.Core\\Figures.Core.csproj|solutionrelative:figures.core\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,87 +90,125 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeSerialize.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Serialization\\ShapeSerialize.cs",
+              "RelativeDocumentMoniker": "Figures.Core\\Serialization\\ShapeSerialize.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Serialization\\ShapeSerialize.cs",
+              "RelativeToolTip": "Figures.Core\\Serialization\\ShapeSerialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:42:54.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.cs",
+              "RelativeDocumentMoniker": "Figures\\Forms\\Scene.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.cs",
+              "RelativeToolTip": "Figures\\Forms\\Scene.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwHQBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:28:37.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeDTO.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.DTO\\ShapeDTO.cs",
+              "RelativeDocumentMoniker": "Figures.DTO\\ShapeDTO.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.DTO\\ShapeDTO.cs",
+              "RelativeToolTip": "Figures.DTO\\ShapeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:25:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Figures.Core\\Interfaces\\IShape.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Figures.Core\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:09:44.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "Figures.Core\\Models\\Shape.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Shape.cs",
+              "RelativeToolTip": "Figures.Core\\Models\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:09:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Figures.Core\\Models\\Rectangle.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Rectangle.cs",
+              "RelativeToolTip": "Figures.Core\\Models\\Rectangle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:09:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "Figures.Core\\Models\\Circle.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Circle.cs",
+              "RelativeToolTip": "Figures.Core\\Models\\Circle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:04:48.266Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Square.cs",
               "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Square.cs",
               "RelativeDocumentMoniker": "Figures.Core\\Models\\Square.cs",
               "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Square.cs",
               "RelativeToolTip": "Figures.Core\\Models\\Square.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:19:07.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Scene.Designer.cs",
-              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.Designer.cs",
-              "RelativeDocumentMoniker": "Figures\\Forms\\Scene.Designer.cs",
-              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.Designer.cs",
-              "RelativeToolTip": "Figures\\Forms\\Scene.Designer.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAgwLQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:11:40.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShapeSerialize.cs",
-              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Serialization\\ShapeSerialize.cs",
-              "RelativeDocumentMoniker": "Figures.Core\\Serialization\\ShapeSerialize.cs",
-              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Serialization\\ShapeSerialize.cs",
-              "RelativeToolTip": "Figures.Core\\Serialization\\ShapeSerialize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:26:46.019Z"
+              "WhenOpened": "2025-04-19T10:04:17.256Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Save.cs",
-              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Save.cs",
-              "RelativeDocumentMoniker": "Figures\\Forms\\Save.cs",
-              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Save.cs",
-              "RelativeToolTip": "Figures\\Forms\\Save.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "Figures.Core\\Models\\Triangle.cs",
+              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures.Core\\Models\\Triangle.cs",
+              "RelativeToolTip": "Figures.Core\\Models\\Triangle.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:15:41.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T10:03:04.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Scene.cs",
-              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.cs",
-              "RelativeDocumentMoniker": "Figures\\Forms\\Scene.cs",
-              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.cs",
-              "RelativeToolTip": "Figures\\Forms\\Scene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:14:01.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Scene.cs [Design]",
               "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.cs",
               "RelativeDocumentMoniker": "Figures\\Forms\\Scene.cs",
               "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Scene.cs [Design]",
               "RelativeToolTip": "Figures\\Forms\\Scene.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:13:59.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Save.cs [Design]",
-              "DocumentMoniker": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Save.cs",
-              "RelativeDocumentMoniker": "Figures\\Forms\\Save.cs",
-              "ToolTip": "D:\\univeristy\\TU-Project-2semester\\Figures\\Figures\\Forms\\Save.cs [Design]",
-              "RelativeToolTip": "Figures\\Forms\\Save.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:13:53.207Z"
+              "WhenOpened": "2025-04-19T07:36:23.395Z"
             }
           ]
         }
